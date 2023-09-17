@@ -1,7 +1,7 @@
 - 👋 Hi, I’m NaqiHassan
-- 👀 I’m interested in learning new technologies and businesses
+- 👀 I’m a Front-End Developer
 - 🌱 I’m currently learning Full stack development
-- 💞️ I’m looking to collaborate on front-end development projects
+- 💞️ I’m looking to collaborate on Front-End projects
 - 📫 You can reach me at imnaqihassan@gmail.com
 
 <!---
